@@ -42,7 +42,7 @@ const Home: React.FC = () => {
                 <div className="caption">Cleaner For Living Room Needed</div>
                 </div>
                 <div className="flip-card-back">
-                <h1>Required Skills: hello</h1>
+                <h1>Required Skills: </h1>
                 <p>Thourouly Sweeping</p>
                 <p>Vacuuming</p>
                 <p>(Location: Soweto)</p>
